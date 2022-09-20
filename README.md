@@ -5,7 +5,7 @@
 <img width="953" alt="basket" src="https://user-images.githubusercontent.com/77205201/191199704-73d4dc8e-00c5-40f2-b522-d3b76968b992.png">
 
 
-
+To see the live demo of this project click on this link https://basketball-scoreboard-12.netlify.app/
 
 I made a basketball scoreboard as a part of solo project given by Scrimba js course. It was created with TailwindCSS (Grid and Flexbox) and javascript.
 
