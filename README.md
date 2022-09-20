@@ -1,3 +1,12 @@
+
+
+
+
+<img width="953" alt="basket" src="https://user-images.githubusercontent.com/77205201/191199704-73d4dc8e-00c5-40f2-b522-d3b76968b992.png">
+
+
+
+
 I made a basketball scoreboard as a part of solo project given by Scrimba js course. It was created with TailwindCSS (Grid and Flexbox) and javascript.
 
 I just created for practicing my javascript skills.
